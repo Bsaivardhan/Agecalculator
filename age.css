@@ -1,0 +1,37 @@
+<style>
+    body{
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+    h1{
+        text-align: center;
+        color:rgb(241, 31, 66);
+    }
+    .container{
+        padding-left: 50px;
+        border: 2px solid black;
+        border-radius : 5px;
+        font-size: 30px;
+        background-color: antiquewhite;
+
+    }
+    .btns{
+        display: flex;
+        gap: 30px;
+    }
+    button{
+        width:30%;
+        height:40px;
+        font-size: 20px;
+        background-color: aquamarine;
+        color:Black;
+
+    }
+    input{
+        width:30%;
+        height:40px;
+        font-size: 20px;
+
+    }
+
+</style>

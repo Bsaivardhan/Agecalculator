@@ -18,6 +18,6 @@ function calculate(){
     } )
     
 }
-function reset(){
+function Reset(){
     window.location.reload() ;
 }
